@@ -17,6 +17,7 @@ Fresh & Fine is a product landing page for an organic fruit juice brand. They se
 
 ## markdown practice
 *itallic text* | **Bold text** | Inline code
+
 0 | 0 | 0
 
 
